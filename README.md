@@ -10,3 +10,13 @@
 ## 소리
 
 ## 예측
+
+## 아키텍처
+
+AWS EC2
+
+docker
+
+kubernetes
+
+svelte
