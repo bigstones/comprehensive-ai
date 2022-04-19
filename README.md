@@ -20,3 +20,5 @@ docker
 kubernetes
 
 svelte
+
+fastapi
